@@ -2,21 +2,9 @@
 
 A simple PHP example demonstrating how to authenticate users using OAuth 2.0 system and retrieve their profile information through the API.
 
-## Features
-
-* OAuth 2.0 Authorization Code Flow
-* User login with forum account
-* Access token retrieval
-* User profile information retrieval
-* Clean and minimal PHP implementation
-
 ## Requirements
 
 * PHP 7.4 or newer
-* cURL enabled
-* OAuth Client ID
-* OAuth Client Secret
-* Valid Redirect URI
 
 ## Configuration
 
